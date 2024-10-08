@@ -1,6 +1,6 @@
 ## COMP3104_Group10_Assignment ##
 
-[![CI](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/CI.yml/badge.svg)](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/CI.yml)
+[![CI](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/blank.yml/badge.svg)](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/blank.yml)
 
 ### Leader : [Mehmet Ali KABA - 101453763](https://github.com/kabamehmetali) ###
 ### Member : [Miguel Angel Gutierrez - 101449899](https://github.com/MigueGs) ###
