@@ -1,0 +1,34 @@
+name: CI
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+
+on:
+  push:  # This will trigger the workflow on a push event
+
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest  # The job will run on the latest Ubuntu runner
+
+    steps:
+      # Step 1: Print event trigger details
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+
+      # Step 2: Print the operating system details
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+
+      # Step 3: Print branch and repository details
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+
+      # Step 4: Checkout the repository code
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      # Step 5: Print confirmation of the cloned repository
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+
+      # Step 6: List the repository files
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+
+      # Step 7: Print the job status
+      - run: echo "🍏 This job's status is ${{ job.status }}."
