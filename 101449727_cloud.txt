@@ -1,0 +1,1 @@
+Cloud computing plays a critical role in DevOps, providing scalable infrastructure, enabling automation, and allowing for seamless deployment through platforms like AWS, Azure, and Google Cloud.
