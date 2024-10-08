@@ -1,3 +1,0 @@
-Learning DevOps is essential in the software development life cycle as it helps ensure continuous integration,
- testing, and deployment. This leads to faster release cycles, higher software quality,
- and more efficient coolaboration between teams
