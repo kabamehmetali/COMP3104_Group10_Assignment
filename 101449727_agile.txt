@@ -1,0 +1,1 @@
+Agile and DevOps complement each other by promoting collaboration and iterative development. Agile focuses on incremental software delivery, while DevOps ensures the continuous deployment of software
