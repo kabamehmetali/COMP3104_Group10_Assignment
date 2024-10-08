@@ -1,0 +1,1 @@
+CI/CD is the backbone of DevOps. Continuous Integration automates the testing and merging of code, while Continuous Delivery ensures that software can be deployed to production at any time.
