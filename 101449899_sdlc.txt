@@ -1,4 +1,5 @@
-## George Brown College ##
-### Migel Gutierrez ###
-### 101449899 ###
-### Computer Programming and Analysis - T177 Student ###
+Benefits of Implementing DevOps
+Adopting DevOps breaks down the barriers between development and operations teams, allowing for smoother collaboration throughout the entire development and application lifecycle. Without DevOps, organizations often face handoff friction, delaying software releases and negatively impacting business outcomes.
+
+Collaboration
+Implementing a DevOps model fosters alignment between development and operations teams, reducing handoff friction and ensuring everyone is working towards the same goals and objectives.
