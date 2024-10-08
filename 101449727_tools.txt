@@ -1,0 +1,1 @@
+DevOps relies on tools like Docker for containerization, Jenkins for continuous integration, and Kubernetes for orchestration. These tools streamline development and operations, ensuring efficiency.
