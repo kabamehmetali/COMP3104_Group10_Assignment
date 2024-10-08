@@ -1,0 +1,3 @@
+COMP 3104 is a course focused on DevOps, teaching automation, CI/CD pipelines, cloud services, and more.
+ It equips students with the skills necessary to bridge development and operations 
+in modern software engineering.
