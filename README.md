@@ -1,6 +1,11 @@
 ## COMP3104_Group10_Assignment ##
 
+<<<<<<< HEAD
 [![CI](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/blank.yml/badge.svg)](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/blank.yml)
+=======
+
+[![CI](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/CI.yml/badge.svg)](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/CI.yml)
+>>>>>>> 101445976-Pornpajee-Sunkkadithee
 
 ### Leader : [Mehmet Ali KABA - 101453763](https://github.com/kabamehmetali) ###
 ### Member : [Miguel Angel Gutierrez - 101449899](https://github.com/MigueGs) ###
@@ -19,4 +24,4 @@ This repository hosts the group assignment for COMP3104 DevOps course, focusing 
 The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/ci.yml`. 
 
 ## Branching Strategy ##
-Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests. 
+Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
