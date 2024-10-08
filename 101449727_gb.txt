@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+George Brown College (GBC) is a public college located in Toronto, Ontario, Canada. It offers a variety of programs in areas such as arts, business, health sciences, and technology.
+
+=======
+George Brown College is a public, fully accredited college of applied arts and technology located in Toronto, Ontario. It offers a range of programs and certificates in various fields of study.
+>>>>>>> c39412f18813b7e4a24137f9ec95204fcfcecb00
