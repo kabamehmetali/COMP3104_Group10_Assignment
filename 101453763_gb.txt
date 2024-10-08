@@ -2,3 +2,24 @@
 ### Mehmet Ali KABA - 101453763 ###
 ### Computer Programming and Analysis - T177 Student ###
 
+# Full Description
+
+In the modern business world, Information Technology (IT) affects most important decisions––which is why IT professionals play such a vital role in successful teams. To address this need for skilled IT pros, we created this comprehensive three-year (six-semester) Computer Programming and Analysis advanced diploma program. Equip yourself with solid programming and IT analysis skills so you can thrive in the dynamic world of information technology as you carve your path for career advancement.
+
+Companies looking to hire computer programmer analysts want those who possess a combination of hard and soft skills. In your first two years of the program, you'll gain the skills and techniques you need for software application development and testing. In your final year, we'll focus on developing advanced technical abilities, plus communication, teamwork, and other client service skills.
+
+In this program, you'll learn about:
+
+Project-based and experiential learning
+Understanding fast-growing AI and machine-learning strategies and development
+Mobile application development using the latest mobile devices
+Full-stack development
+Software development life cycle and methodologies
+Database management
+PLEASE NOTE:
+
+If you enrol in January, you must complete semester 2 from May to August of the same year.
+In this rapidly changing industry, ongoing program improvements are being made, which may result in course changes.
+Changes are made in consultation with our Program Advisory Committee, which is composed of academic staff and industry representatives from small, medium-size, and large corporations.
+
+Source : https://www.georgebrown.ca/programs/computer-programming-and-analysis-program-t177#:~:text=The%20Computer%20Programming%20and%20Analysis%20three-year%20advanced%20diploma%20program%20offers
