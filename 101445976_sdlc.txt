@@ -1,1 +1,1 @@
-Learning DevOps is crucial in the software development lifecycle (SDLC) as it promotes collaboration between development and operations teams. It enhances the speed of software delivery, improves product quality, and encourages a culture of continuous improvement.
+Learning DevOps is crucial in the software development lifecycle (SDLC) as it promotes collaboration between development and operations teams. It enhances the speed of software delivery, improves product quality, and encourages a culture of continuous improvement
