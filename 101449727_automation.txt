@@ -1,0 +1,1 @@
+Automation is at the heart of DevOps. It reduces manual tasks, ensures consistency in deployment, and accelerates the software development cycle by automating builds, tests, and deployments.
