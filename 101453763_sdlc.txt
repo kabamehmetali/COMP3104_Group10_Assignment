@@ -1,0 +1,17 @@
+Importance of learning DevOps in the software development cycle. 
+
+Benefits of DevOps
+Adopting DevOps breaks down barriers so that development and operations teams are no longer siloed and have a more efficient way to work across the entire development and application lifecycle. Without DevOps, organizations often experience handoff friction, which delays the delivery of software releases and negatively impacts business results.
+
+The DevOps model is an organization’s answer to increasing operational efficiency, accelerating delivery, and innovating products. Organizations that have implemented a DevOps culture experience the benefits of increased collaboration, fluid responsiveness, and shorter cycle times.
+
+Collaboration 
+Adopting a DevOps model creates alignment between development and operations teams; handoff friction is reduced and everyone is all in on the same goals and objectives.
+
+Fluid responsiveness 
+More collaboration leads to real-time feedback and greater efficiency; changes and improvements can be implemented quicker and guesswork is removed.
+
+Shorter cycle time 
+Improved efficiency and frequent communication between teams shortens cycle time; new code can be released more rapidly while maintaining quality and security.
+
+source : https://about.gitlab.com/topics/devops/
