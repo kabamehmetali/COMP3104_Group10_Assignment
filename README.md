@@ -1,4 +1,5 @@
 ## COMP3104_Group10_Assignment ##
+[![CI](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/CI.yml/badge.svg)](https://github.com/kabamehmetali/COMP3104_Group10_Assignment/actions/workflows/CI.yml)
 
 ### [Mehmet Ali KABA - 101453763](https://github.com/kabamehmetali) ###
 ### [Miguel Angel Gutierrez - 101449899](https://github.com/MigueGs) ###
