@@ -12,7 +12,7 @@ This repository hosts the group assignment for COMP3104 DevOps course, focusing 
 
 ## Setup Instructions ##
 1. Clone the repository. 
-2. Switch to your branch using `git checkout 101453763-Mehmet_Ali_KABA`. 
+2. Switch to your branch using `git checkout STUDENTID-Name`. 
 3. Install any dependencies as listed. 
 
 ## CI/CD Pipeline ##
