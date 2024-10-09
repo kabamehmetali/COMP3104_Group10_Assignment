@@ -1,7 +1,7 @@
 ## Description Please include a summary of the changes and the related issue.  
 ## Type of Change 
-- [x] Bug fix
-- [x] New feature
+- [ ] Bug fix
+- [ ] New feature
 - [x] Documentation update
 ## Checklist 
 - [x] My code follows the style guidelines of this project 
